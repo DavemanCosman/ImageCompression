@@ -1,0 +1,15 @@
+README
+
+To compile;
+gcc -Wall asn1.c libpnm.c -o asn1 -lm
+
+Not good practice, but;
+1. Program 1 is finished
+2. Program 2 is finished
+3. Program 3, I got stuck with and it was 2l8 in the week 4me
+
+My current submission includes;
+1. Images for program 1
+2. Images for program 2
+3. Report on both programs
+4. A Make File (just type make)
